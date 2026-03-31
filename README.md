@@ -2,6 +2,8 @@
 
 PARA VER EN ESPAÑOL IR A LINEA 280
 
+[![Demo cognitive NPC system (Neuron657) vs FSM — emergent behavior demo]](https://www.youtube.com/watch?v=XzNyIML9Go8)
+
 <div align="center">
 
 **Version 13.2 · Bio-Inspired Adaptive Decision-Making**
